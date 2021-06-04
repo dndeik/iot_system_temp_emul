@@ -1,0 +1,6 @@
+paho.mqtt.client
+socket
+tkinter
+PIL
+numpy
+matplotlib.pyplot
