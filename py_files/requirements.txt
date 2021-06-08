@@ -1,6 +1,4 @@
-paho.mqtt.client
-socket
-tkinter
-PIL
+paho-mqtt
+pillow
 numpy
-matplotlib.pyplot
+matplotlib
