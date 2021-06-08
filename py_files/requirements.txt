@@ -1,5 +1,4 @@
 paho-mqtt
 pillow
-tk
 numpy
 matplotlib
